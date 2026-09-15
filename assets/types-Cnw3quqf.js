@@ -1,0 +1,1 @@
+const E={PRODUCTION_STORAGE:"生产临时存储",TRANSPORT:"运输过程",WAREHOUSE:"产品商仓库",IN_USE:"使用中"},s={BASELINE:"安全基线",SUSPECTED:"热失控疑似",CONFIRMED:"确认热失控",FALSE_ALARM:"误报",MAINTENANCE:"需维护",RETIRED:"已处置"},A={GREEN:"翠绿(未触发)",BLACK:"蓝黑(不可逆)"},L={LEVEL1_SUSPECT:"一级:电气疑似",LEVEL2_CONFIRMED:"二级:确认热失控"},N={CONFIRMED:"确认热失控",FALSE_ALARM:"误报",MAINTENANCE:"需维护"};export{E as a,A as b,N as c,L as l,s};
